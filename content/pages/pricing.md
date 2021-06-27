@@ -49,7 +49,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Advanced
-        subtitle: For teams and companies
+        subtitle: Includes Fire-fighting strategies
         title_align: left
         content: >-
           ---
