@@ -10,7 +10,7 @@ sections:
       create a brokerage account, buy/sell/invest in stocks. Perform advanced
       trades including Options Trading
     actions:
-      - label: Get the book
+      - label: Join the course
         url: /pricing
         style: primary
         has_icon: true
