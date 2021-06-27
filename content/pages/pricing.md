@@ -10,7 +10,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Introductory
-        subtitle: For college students and educators
+        subtitle: For those who are new to trading
         title_align: left
         content: |-
           ---
