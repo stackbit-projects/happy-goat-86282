@@ -4,10 +4,11 @@ sections:
   - type: hero_section
     title: Learn Trading Lessons from Professionals
     subtitle: Your guide to Stock Market Trading.
-    content: |-
-      This book is your go-to guide for all marketing channels. Learn how to
-      create effective landing pages, compelling ads, creative copywriting and
-      converting marketing materials for any business.
+    content: >
+      Our course is your go-to guide for all kinds of trading. Learn how to
+
+      create a brokerage account, buy/sell/invest in stocks. Perform advanced
+      trades including Options Trading
     actions:
       - label: Get the book
         url: /pricing
