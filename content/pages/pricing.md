@@ -3,8 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: Pick Your Plan
-    subtitle: >-
-      Select the best fit for your budget below
+    subtitle: Select the best fit based on your trading experience
     align: center
     padding_top: large
     padding_bottom: small
@@ -57,11 +56,8 @@ sections:
 
           ### $49 eBook
 
-          * 3 eBooks
-          * Monthly webinars
-          * Bonus chapter per vertical
-          * Live Q&A session
-          * Advanced worksheets
+          * 3 eBooks * Monthly webinars * Bonus chapter per vertical * Live Q&A
+          session * Advanced worksheets
         content_align: left
         actions:
           - label: Start with Business
@@ -81,20 +77,20 @@ seo:
   title: Pricing
   description: This is the pricing page
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: Pricing
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: This is the pricing page
       keyName: property
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary
-    - name: twitter:title
+    - name: 'twitter:title'
       value: Pricing
-    - name: twitter:description
+    - name: 'twitter:description'
       value: This is the pricing page
 layout: advanced
 ---
