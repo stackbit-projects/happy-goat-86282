@@ -28,7 +28,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Professional
+      - title: Beginners
         subtitle: For marketers at companies
         title_align: left
         content: |-
