@@ -29,7 +29,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Beginners
-        subtitle: For marketers at companies
+        subtitle: For those who are new to Options
         title_align: left
         content: |-
           ---
